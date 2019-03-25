@@ -47,4 +47,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
 #EXTINF:-1  tvg-id="REDMAS" tvg-name="RED MAS" tvg-logo="http://www.redmas.com.co/wp-content/themes/RedMas/img/logoredmas.jpg" group-title="COLOMBIA",RED +
 http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
-
+#EXTINF:-1,Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/8125.ts
+#EXTINF:-1,TOONCAST
+http://iptvhit.com/player?http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/8126.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/11583.ts
