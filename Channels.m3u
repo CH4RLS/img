@@ -57,3 +57,5 @@ http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/8126.ts
 http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/11583.ts
 #EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="LOCOMOTION" tvg-logo="http://i30.servimg.com/u/f30/12/40/17/19/locomo10.gif" group-title="ANIMADO",LOCOMOTION 
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1  tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://puu.sh/wXpDv/c09197c8e2.png" group-title="PREMIUM",HBO2 HD
+http://144.217.74.151:25461/V8tZrPXnk/gangatv/12390
