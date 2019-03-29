@@ -9,13 +9,13 @@ http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:0,CBC Television
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1  tvg-id="FOXPREMIUMMOVIES" tvg-name="FOX PREMIUM MOVIES" tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="PREMIUM",FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-id="FOXPREMIUMMOVIES" tvg-name="FOX PREMIUM MOVIES" tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="PREMIUM",FOX PREMIUM MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1  tvg-id="FOXPREMIUMCINEMA" tvg-name="FOX PREMIUM CINEMA" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="PREMIUM",FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-id="FOXPREMIUMCINEMA" tvg-name="FOX PREMIUM CINEMA" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="PREMIUM",FOX PREMIUM CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:0,Telemundo
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:0, FOX Comedy
+#EXTINF:0, tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="VARIADO",TELEMUNDO
+http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
+#EXTINF:0, tvg-id="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://narcoplay.com/wp-content/uploads/2018/04/Fox-Comedy.jpg" group-title="VARIADO",FOX Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:0,MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
@@ -55,3 +55,5 @@ http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/8125.ts
 http://iptvhit.com/player?http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/8126.ts
 #EXTINF:-1,DISCOVERY CHANNEL
 http://144.217.74.151:25461/live/V8tZrPXnk/gangatv/11583.ts
+#EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="LOCOMOTION" tvg-logo="http://i30.servimg.com/u/f30/12/40/17/19/locomo10.gif" group-title="ANIMADO",LOCOMOTION 
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
