@@ -11,7 +11,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1 tvg-id="FoxMoviesHD" tvg-name="Fox Movies HD" tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="PREMIUM",FOX MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-id="fox.premium.cinema.mx" tvg-name="Fox Cinema" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" tvg-rec=-4 group-title="PREMIUM",FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-id="fox.premium.cinema.mx" tvg-name="Fox Cinema" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" tvg-shift=-4 group-title="PREMIUM",FOX PREMIUM CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:0, tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="VARIADO",TELEMUNDO
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
