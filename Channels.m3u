@@ -11,13 +11,13 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1 tvg-id="FoxMoviesHD" tvg-name="Fox Movies HD" tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="PREMIUM",FOX MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-shift=-4 tvg-id="fox.premium.cinema.mx" tvg-name="Fox Cinema" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="PREMIUM",FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-id="fox.premium.cinema.mx" tvg-name="Fox Cinema" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="PREMIUM",FOX PREMIUM CINEMA
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:0, tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="VARIADO",TELEMUNDO
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="VARIADO",TELEMUNDO
 http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
-#EXTINF:0, tvg-id="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://narcoplay.com/wp-content/uploads/2018/04/Fox-Comedy.jpg" group-title="VARIADO",FOX Comedy
+#EXTINF:-1 tvg-id="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://narcoplay.com/wp-content/uploads/2018/04/Fox-Comedy.jpg" group-title="VARIADO",FOX Comedy
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:0,MTV
+#EXTINF:-1 tvg-id="mtv.latin.america.north.feed.hdtv.mx" tvg-name="Mtv Latin America North Feed Hdtv -- MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png", MTV
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1  tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.115.4/img/modulos/cnLogo/cnlogo_big.png" group-title="ANIMADO",CARTOON NETWORK
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
@@ -35,7 +35,7 @@ http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 #EXTINF:0,DW English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:0,MTV USA
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png", MTV USA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,ABC HD
 https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
@@ -49,4 +49,5 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="LOCOMOTION" tvg-logo="http://i30.servimg.com/u/f30/12/40/17/19/locomo10.gif" group-title="ANIMADO",LOCOMOTION 
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-
+#EXTINF:-1,VH1
+http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
