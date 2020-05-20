@@ -1,53 +1,217 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="hbo.latin.america.west.mx" tvg-name="Hbo Latin America West -- MX" tvg-logo="https://i.imgur.com/q7kk9ZX.png" group-title="PREMIUM",HBO LATINO
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1  tvg-id="CookingChannelHD.us" tvg-name="COOKING CHANNEL" tvg-logo="https://csa.dishnetwork.com/images/logos/cookhd.png" group-title="VARIADO",COOKING CHANNEL
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="https://www.guatemala.com/fotos/2018/12/Guatemalteco-destaca-a-nivel-internacional.png" group-title="VARIADO",Animal Planet
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://puu.sh/wXpDv/c09197c8e2.png" group-title="PREMIUM",HBO2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 tvg-id="CBCNewsNetworkHD.ca" tvg-name="CBC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/CBC_TV_8.png/150px-CBC_TV_8.png" group-title="VARIADO",CBC Television
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1 tvg-id="FoxMoviesHD" tvg-name="Fox Movies HD" tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="PREMIUM",FOX MOVIES
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 tvg-id="fox.premium.cinema.mx" tvg-name="Fox Cinema" tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="PREMIUM",FOX PREMIUM CINEMA
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo-logo.svg" group-title="VARIADO",TELEMUNDO
-http://161.0.157.9/PLTV/88888888/224/3221226207/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://narcoplay.com/wp-content/uploads/2018/04/Fox-Comedy.jpg" group-title="VARIADO",FOX Comedy
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1 tvg-id="mtv.latin.america.north.feed.hdtv.mx" tvg-name="Mtv Latin America North Feed Hdtv -- MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png", MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1  tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.115.4/img/modulos/cnLogo/cnlogo_big.png" group-title="ANIMADO",CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,Catch
-http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:0,ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-id="GARAGETV" tvg-name="GARAGE TV" tvg-logo="http://1.bp.blogspot.com/-Ry0-7pCpsqQ/UoAzsV6M8zI/AAAAAAAAi5M/kq_4zQKwg10/s1600/elgarage-2013.png",Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:0,Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-#EXTINF:0,EN: MyHit
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:0,Azteca+ Plus
-http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
-#EXTINF:0,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png", MTV USA
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:0,ABC HD
-https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
-#EXTINF:0,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1  tvg-id="UNIVERSAL" tvg-name="UNIVERSAL" tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="CINE",UNIVERSAL
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1  tvg-id="REDMASt" tvg-name="RED MAS" tvg-logo="http://www.redmas.com.co/wp-content/themes/RedMas/img/logoredmas.jpg" group-title="COLOMBIA",RED +
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/Stream(06)/index.m3u8
-#EXTINF:-1,Canal Capital HD
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="LOCOMOTION" tvg-logo="http://i30.servimg.com/u/f30/12/40/17/19/locomo10.gif" group-title="ANIMADO",LOCOMOTION 
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1,VH1
-http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1 group-title="LATINOS" tvg-name="ANIMAL PLANET" tvg-ID="AnimalPlanet.co", ANIMAL PLANET
+http://livetv.perustream.com:80/perustream/porcargoso2020/10267
+#EXTINF:-1 group-title="LATINOS" tvg-name="ANTENA3" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10135
+#EXTINF:-1 group-title="LATINOS" tvg-name="AXN" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10286
+#EXTINF:-1 group-title="LATINOS" tvg-name="AZCORAZON" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10195
+#EXTINF:-1 group-title="LATINOS" tvg-name="AZMUNDO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10178
+#EXTINF:-1 group-title="LATINOS" tvg-name="BBC WORLD" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10324
+#EXTINF:-1 group-title="LATINOS" tvg-name="BBC WORLD NEWS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10244
+#EXTINF:-1 group-title="LATINOS" tvg-name="BLOOMBERG" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10305
+#EXTINF:-1 group-title="LATINOS" tvg-name="BOOMERANG" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10297
+#EXTINF:-1 group-title="LATINOS" tvg-name="CANAL DE LAS ESTRELLAS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10275
+#EXTINF:-1 group-title="LATINOS" tvg-name="CARTOON NETWORK" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10311
+#EXTINF:-1 group-title="LATINOS" tvg-name="CINECANAL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10303
+#EXTINF:-1 group-title="LATINOS" tvg-name="CINELATINO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10310
+#EXTINF:-1 group-title="LATINOS" tvg-name="CINEMA DINAMITA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10273
+#EXTINF:-1 group-title="LATINOS" tvg-name="CINEMAX" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10285
+#EXTINF:-1 group-title="LATINOS" tvg-name="CNN ESPANOL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10189
+#EXTINF:-1 group-title="LATINOS" tvg-name="CNN INTERNACIONAL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10335
+#EXTINF:-1 group-title="LATINOS" tvg-name="COMEDY CENTRAL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10263
+#EXTINF:-1 LATINOS tvg-name="CONCERT CHANNEL HD" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10288
+#EXTINF:-1 group-title="LATINOS" tvg-name="DE PELICULA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10228
+#EXTINF:-1 group-title="LATINOS" tvg-name="DHE " ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10331
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY CHANNEL" tvg-ID="DiscoveryChannel.mx", Discovery
+http://livetv.perustream.com:80/perustream/porcargoso2020/10292
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY CIVILIZATION" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10188
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY H&H" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/15241
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY HOME HEALTH" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10291
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY KIDS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10322
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY SCIENCE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10325
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY THEATER" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10302
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY TURBO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10323
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY WORLD" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10301
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISNEY" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10155
+#EXTINF:-1 group-title="LATINOS" tvg-name="DISNEY XD" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10313
+#EXTINF:-1 group-title="LATINOS" tvg-name="DW" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10327
+#EXTINF:-1 group-title="LATINOS" tvg-name="E!" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10281
+#EXTINF:-1 group-title="LATINOS" tvg-name="EWTN" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10298
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10272
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX LIFE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10170
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX NEWS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10334
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM ACTION" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10341
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM CINEMA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10306
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM CLASSICS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10307
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM COMEDY" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10330
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM FAMILY" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10343
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM MOVIES" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10319
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX PREMIUM SERIES" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10252
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX SPORT 2" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10216
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX SPORTS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10218
+#EXTINF:-1 group-title="LATINOS" tvg-name="FOX SPORTS 3" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10217
+#EXTINF:-1 group-title="LATINOS" tvg-name="FRANCE24" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10328
+#EXTINF:-1 group-title="LATINOS" tvg-name="FX" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10173
+#EXTINF:-1 group-title="LATINOS" tvg-name="FXM" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10251
+#EXTINF:-1 group-title="LATINOS" tvg-name="GLITZ" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10241
+#EXTINF:-1 group-title="LATINOS" tvg-name="GOLDEN" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10177
+#EXTINF:-1 group-title="LATINOS" tvg-name="GOLDEN PLUS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10212
+#EXTINF:-1 group-title="LATINOS" tvg-name="GOLDEN PREMIER" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10176
+#EXTINF:-1 group-title="LATINOS" tvg-name="GOLF LATIN AMERICA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10214
+#EXTINF:-1 group-title="LATINOS" tvg-name="GOURMET" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10300
+#EXTINF:-1 group-title="LATINOS" tvg-name="H2" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10294
+#EXTINF:-1 group-title="LATINOS" tvg-name="HBO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10260
+#EXTINF:-1 group-title="LATINOS" tvg-name="HBO 2 " ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10186
+#EXTINF:-1 group-title="LATINOS" tvg-name="HBO FAMILY" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10317
+#EXTINF:-1 group-title="LATINOS" tvg-name="HBO PLUS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10342
+#EXTINF:-1 group-title="LATINOS" tvg-name="HBO SIGNATURE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10271
+#EXTINF:-1 group-title="LATINOS" tvg-name="HEADLINE NEWS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10230
+#EXTINF:-1 group-title="LATINOS" tvg-name="HISTORY CHANNEL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10295
+#EXTINF:-1 group-title="LATINOS" tvg-name="HOLA TV" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10326
+#EXTINF:-1 group-title="LATINOS" tvg-name="INVESTIGATION DISCOVERY [DUAL]" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10249
+#EXTINF:-1 group-title="LATINOS" tvg-name="ISAT" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10226
+#EXTINF:-1 group-title="LATINOS" tvg-name="LIFETIME" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10308
+#EXTINF:-1 group-title="LATINOS" tvg-name="MAS CHIC" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10266
+#EXTINF:-1 group-title="LATINOS" tvg-name="MAX PRIME" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10205
+#EXTINF:-1 group-title="LATINOS" tvg-name="MAX UP" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10289
+#EXTINF:-1 group-title="LATINOS" tvg-name="MTV" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10278
+#EXTINF:-1 group-title="LATINOS" tvg-name="MTV HITS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10274
+#EXTINF:-1 group-title="LATINOS" tvg-name="MTV LIVE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10340
+#EXTINF:-1 group-title="LATINOS" tvg-name="MULTIPREMIER" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10279
+#EXTINF:-1 group-title="LATINOS" tvg-name="NATGEO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10293
+#EXTINF:-1 group-title="LATINOS" tvg-name="NATGEO KIDS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10321
+#EXTINF:-1 group-title="LATINOS" tvg-name="NICK JR" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10290
+#EXTINF:-1 group-title="LATINOS" tvg-name="NICKELODEON" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10318
+#EXTINF:-1 group-title="LATINOS" tvg-name="PARAMOUNT" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10268
+#EXTINF:-1 group-title="LATINOS" tvg-name="PASIONES" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10276
+#EXTINF:-1 group-title="LATINOS" tvg-name="RAI ITALIA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10239
+#EXTINF:-1 group-title="LATINOS" tvg-name="RCN TELENOVELAS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10265
+#EXTINF:-1 group-title="LATINOS" tvg-name="SONY CHANNEL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10282
+#EXTINF:-1 group-title="LATINOS" tvg-name="SPACE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10333
+#EXTINF:-1 group-title="LATINOS" tvg-name="STUDIO UNIVERSAL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10270
+#EXTINF:-1 group-title="LATINOS" tvg-name="SUNDANCE TV" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10299
+#EXTINF:-1 group-title="LATINOS" tvg-name="TBS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10141
+#EXTINF:-1 group-title="LATINOS" tvg-name="TCM" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10287
+#EXTINF:-1 group-title="LATINOS" tvg-name="TELEANTIOQUIA" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10246
+#EXTINF:-1 group-title="LATINOS" tvg-name="TELECAFE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10245
+#EXTINF:-1 group-title="LATINOS" tvg-name="TELEMUNDO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10332
+#EXTINF:-1 group-title="LATINOS" tvg-name="TELEMUNDO INTERNACIONAL." ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10232
+#EXTINF:-1 group-title="LATINOS" tvg-name="THE FILM ZONE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10209
+#EXTINF:-1 group-title="LATINOS" tvg-name="TLC" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10142
+#EXTINF:-1 group-title="LATINOS" tvg-name="TLC" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10242
+#EXTINF:-1 group-title="LATINOS" tvg-name="TNT" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10315
+#EXTINF:-1 group-title="LATINOS" tvg-name="TNT SERIES" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10314
+#EXTINF:-1 group-title="LATINOS" tvg-name="TOONCAST" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10283
+#EXTINF:-1 group-title="LATINOS" tvg-name="TRUTV" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10220
+#EXTINF:-1 group-title="LATINOS" tvg-name="TV5MONDE" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10304
+#EXTINF:-1 group-title="LATINOS" tvg-name="UNIVERSAL CHANNEL" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10181
+#EXTINF:-1 group-title="LATINOS" tvg-name="UNO" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10236
+#EXTINF:-1 group-title="LATINOS" tvg-name="VH1" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10172
+#EXTINF:-1 group-title="LATINOS" tvg-name="VH1 CLASSIC" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10336
+#EXTINF:-1 group-title="LATINOS" tvg-name="WARNER" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10169
+#EXTINF:-1 group-title="LATINOS" tvg-name="WIN SPORTS" ,
+http://livetv.perustream.com:80/perustream/porcargoso2020/10259
