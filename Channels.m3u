@@ -35,7 +35,7 @@ http://livetv.perustream.com:80/perustream/porcargoso2020/10288
 http://livetv.perustream.com:80/perustream/porcargoso2020/10228
 #EXTINF:-1 group-title="LATINOS" tvg-name="DHE " ,
 http://livetv.perustream.com:80/perustream/porcargoso2020/10331
-#EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY" tvg-ID="DiscoveryChannel.mx",
+#EXTINF:-1 group-title="LATINOS" tvg-name="Discovery Channel" tvg-ID="DiscoveryChannel.mx",
 http://livetv.perustream.com:80/perustream/porcargoso2020/10292
 #EXTINF:-1 group-title="LATINOS" tvg-name="DISCOVERY CIVILIZATION" ,
 http://livetv.perustream.com:80/perustream/porcargoso2020/10188
