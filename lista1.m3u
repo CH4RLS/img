@@ -21,7 +21,7 @@ http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1730
 #EXTGRP:USA
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1731
 #EXTINF:-1 group-title="USA", TLC HD
-#EXTGRP:USA
+#EXTGRP:USA 
 http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1732
 #EXTINF:-1 group-title="USA", The WEATHER CHANNEL HD
 #EXTGRP:USA
